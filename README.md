@@ -1,4 +1,5 @@
 Dibuat oleh : Elya Gita Astuti
+
 Institusi : Universitas Negeri Semarang
 
 Repositori ini berisi skrip Python untuk melakukan pembersihan dan persiapan (preprocessing) pada dataset film. Tujuannya adalah untuk mengubah data mentah menjadi dataset yang bersih, konsisten, dan siap untuk dianalisis lebih lanjut atau digunakan dalam model machine learning.
